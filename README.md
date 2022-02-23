@@ -10,13 +10,14 @@ The code has been refactored for better accessibility in the following ways:
 For better code documentation and performance practices, the following changes have been made:
 - Comments have been added to index.html and style.css files
 - Where possible, the same class attribute has been utlized to reduce redundancy
-- Any unutilized code has been deleted and referenced below.
+- Any un-utilized code has been deleted and referenced below.
 
 Screenshot:
-
+Inspect Element > Accessibility report
+![](2022-02-22-21-21-05.png)
 
 Deployed product link:
-
+https://bkhandag.github.io/semantic-markup-1/
 
 Deleted Code from style.css:
 
